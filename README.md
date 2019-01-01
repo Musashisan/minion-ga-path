@@ -1,5 +1,7 @@
 # minion-ga-path
 A population of minions try to reach the goal using genetic algorithms
+
+Execution sample:
 ![](minion-ga-path_sample.gif)
 
 Developed using [Codebullet's dot tutorial](https://www.youtube.com/watch?v=BOZfhUcNiqk)
@@ -10,7 +12,8 @@ This is a test project using [Processing](https://processing.org/) integrated in
 Requirements:
  * Latest stable [Oracle JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
  * Latest stable [Apache Maven](https://maven.apache.org/download.cgi)
- 
+
+Console commands:
  ```
  cd minion-ga-path
  mvn clean package assembly:single
